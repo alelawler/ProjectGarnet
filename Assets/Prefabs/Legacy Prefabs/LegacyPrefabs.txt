@@ -1,0 +1,3 @@
+Acá pongamos prefabs de cosas que no usemos más pero que nos pueda ser utiles tener. 
+
+Pasan a ser legacy porque la unica razón por la cual preservamos estos objetos es para futura referencia.
